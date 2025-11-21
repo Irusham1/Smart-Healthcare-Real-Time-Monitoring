@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "790006353463",
+    "firebase_url": "https://iot-health-monitoring-sy-b19b8-default-rtdb.firebaseio.com",
+    "project_id": "iot-health-monitoring-sy-b19b8",
+    "storage_bucket": "iot-health-monitoring-sy-b19b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790006353463:android:5ec7367f2298e3feb979b2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbQByOMOLVYLrMcZeO01ouxB7TBrGwbxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790006353463:android:45d79938f482b716b979b2",
+        "android_client_info": {
+          "package_name": "com.example.iot_health_monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbQByOMOLVYLrMcZeO01ouxB7TBrGwbxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
